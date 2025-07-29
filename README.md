@@ -1,4 +1,4 @@
-### **智慧职教全自动学习脚本 (最终方案) 使用指南**
+### **假期教师研修全自动学习脚本使用指南**
 
 #### **1. 方案简介**
 
@@ -17,7 +17,7 @@
 
 #### **3. 安装与使用**
 
-**第一步：安装 Tampermonkey (油猴) 扩展** (如果已安装请跳过)
+**第一步：安装 Tampermonkey  扩展** (如果已安装请跳过)
 
 *   **Chrome / Edge**: [点击安装](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 *   **Firefox**: [点击安装](https://addons.mozilla.org/firefox/addon/tampermonkey/)

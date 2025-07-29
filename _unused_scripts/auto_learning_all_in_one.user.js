@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  集自动点击、2.5倍速播放（UI同步显示）、2小时5分钟强力提醒于一体。
-// @author       Gemini
+// @author       Felix
 // @match        https://core.teacher.vocational.smartedu.cn/p/course/vocational/*
 // @match        https://*.smartedu.cn/p/course/*
 // @grant        none

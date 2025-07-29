@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  在屏幕右下角显示计时器、自动点击、防暂停，并在1小时5分钟后发出强力提醒。
-// @author       Gemini
+// @author       Felix
 // @match        https://core.teacher.vocational.smartedu.cn/p/course/vocational/*
 // @match        https://*.smartedu.cn/p/course/*
 // @grant        none

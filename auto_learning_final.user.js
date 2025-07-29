@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.2
 // @description  后台持续运行，自动点击、防暂停、屏幕计时，并在1小时5分钟后弹窗提醒（无声音）。
-// @author       Gemini
+// @author       Felix
 // @match        https://core.teacher.vocational.smartedu.cn/p/course/vocational/*
 // @match        https://*.smartedu.cn/p/course/*
 // @grant        none

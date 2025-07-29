@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  自动点击“确定”按钮，并在学习1小时5分钟后，发出持续的声音和弹窗提醒，直到用户介入。
-// @author       Gemini
+// @author       Felix
 // @match        https://core.teacher.vocational.smartedu.cn/p/course/vocational/*
 // @match        https://*.smartedu.cn/p/course/*
 // @grant        none

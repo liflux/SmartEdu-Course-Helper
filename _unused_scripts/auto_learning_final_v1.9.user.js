@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.9
 // @description  集自动播放、屏幕计时、防暂停、自动点击、可靠声音提醒于一体的终极解决方案。
-// @author       Gemini
+// @author       Felix
 // @match        https://core.teacher.vocational.smartedu.cn/p/course/vocational/*
 // @match        https://*.smartedu.cn/p/course/*
 // @grant        none

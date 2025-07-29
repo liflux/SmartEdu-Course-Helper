@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  在视频播放结束后，自动点击“您已学完本资源内容”弹窗的“确定”按钮。增强了网址匹配规则。
-// @author       Gemini
+@author       Felix
 // @match        https://core.teacher.vocational.smartedu.cn/p/course/vocational/*
 // @match        https://*.smartedu.cn/p/course/*
 // @grant        none
